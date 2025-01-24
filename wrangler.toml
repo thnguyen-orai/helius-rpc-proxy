@@ -1,3 +1,10 @@
 name = "dedicated-rpc-proxy" # todo
 main = "./src/index.ts"
 compatibility_date = "2022-05-03"
+compatibility_flags = ["streams_enable_constructors"]
+
+[vars]
+CORS_ALLOW_ORIGIN = "agents.land,agents-land-beta.web.app"
+
+[observability.logs]
+enabled = true
