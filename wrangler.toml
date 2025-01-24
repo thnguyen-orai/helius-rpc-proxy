@@ -4,7 +4,7 @@ compatibility_date = "2022-05-03"
 compatibility_flags = ["streams_enable_constructors"]
 
 [vars]
-CORS_ALLOW_ORIGIN = "agents.land,agents-land-beta.web.app"
+CORS_ALLOW_ORIGIN = "https://agents.land,https://agents-land-beta.web.app"
 
 [observability.logs]
 enabled = true
