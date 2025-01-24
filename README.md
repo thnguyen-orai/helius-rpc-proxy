@@ -14,7 +14,7 @@ Both standard JSON RPC and Websockets are supported!
 
 Press the button below to deploy this to your own Cloudflare account:
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/helius-labs/helius-rpc-proxy)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/oraichain/helius-rpc-proxy)
 
 ### Step 2
 
